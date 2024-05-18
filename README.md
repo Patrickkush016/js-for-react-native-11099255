@@ -1,3 +1,4 @@
+ID: 11099255
 Task 1: arrayManipulation.js
 - Within this file are two functions. The initial function is:
   - processArray: It accepts an array of numbers and produces a new array where each even number is squared, and each odd number is tripled.
